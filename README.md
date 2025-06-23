@@ -10,5 +10,5 @@ Couse: Data Structures and Algorithms, Semester: 3. The aim of this project was 
 - Display all contacts (sorted alphabetically)
 
 ## Output 
-! (output/output.png)
-! (output/outputctd.png)
+![](output/output.png)
+![](output/outputctd.png)
