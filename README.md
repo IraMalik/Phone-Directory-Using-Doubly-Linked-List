@@ -12,4 +12,6 @@ The aim of this project was to demonstrate understanding in fundamental concepts
 - Display all contacts (sorted alphabetically)
 
 ## Output 
-|![](output/output.png)|![](output/outputctd.png)|
+|Add, Search, Update | Display, Delete, Exit |
+|--------------------|-----------------------|
+| ![](output/output.png) | ![](output/outputctd.png) |
