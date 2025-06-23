@@ -12,5 +12,4 @@ The aim of this project was to demonstrate understanding in fundamental concepts
 - Display all contacts (sorted alphabetically)
 
 ## Output 
-<img src="output/output.png" width="400" height="350"/>
-<img src="output/outputctd.png" width="400" height="350"/>
+|![](output/output.png)|![](output/outputctd.png)|
